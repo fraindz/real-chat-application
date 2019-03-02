@@ -2,11 +2,11 @@
 
 This is a sample chat application created using ReactJS & ChatKit. The application was created by walking through the online course https://scrimba.com/g/greactchatkit
 
-##Created with
+## Created with
 https://codesandbox.io/s/github/fraindz/real-chat-application
 
-##Deployed at
+## Deployed at
 https://csb-o96wv3x595-yfkwzzkhhm.now.sh/
 
-##App Demo
+## App Demo
 ![](app-demo.gif)
