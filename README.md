@@ -9,7 +9,7 @@ This is a sample chat application created using ReactJS & ChatKit. New concepts 
 ## Resource used
 https://scrimba.com/g/greactchatkit
 
-## Created with
+## Sandbox URL
 https://codesandbox.io/s/github/fraindz/real-chat-application
 
 ## Deployed at
